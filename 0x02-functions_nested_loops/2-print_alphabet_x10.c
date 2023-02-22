@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- * 2-print_alphabet_x10.c - function that prints 10x alphabet
+ * print_alphabet_x10 - function that prints x10 alphabet
  * return: is always 0
  */
 
