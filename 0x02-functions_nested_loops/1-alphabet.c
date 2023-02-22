@@ -5,7 +5,7 @@
  * print_alphabet: functions thatbprints in lower case
  * Return: 0 as always
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char i;
 
